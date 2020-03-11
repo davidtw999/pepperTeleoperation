@@ -75,6 +75,7 @@ rosrun kinect_pj kinect_pj<br>
 There are two key executable files attached above. <br>
 - kinect_pj (copyAndPlay)V3 <br>
 - kinect_pj(liveSimu)v3 <br>
+<br>
 kinect_pj (copyAndPlay)V3 is for recording and playback teleoperation, and kinect_pj(liveSimu)v3 is live teleoperation.
 Please download and rename these files into kinect_pj under the kinect_pj/src folder. Change the permission to executable by use chmod 777 filename<br>
 
