@@ -71,9 +71,12 @@ source setup.bash <br>
 rosrun kinect_pj kinect_pj<br>
 
 # 2.  Run the teleoperation command
-kinect_pj (copyAndPlay)V3
-kinect_pj(copyand)
-Rename these files into kinect_pj under the kinect_pj/src folder. Change the permission to executable by use chmod 777 filename<br>
+
+There are two key executable files attached above. <br>
+- kinect_pj (copyAndPlay)V3 <br>
+- kinect_pj(liveSimu)v3 <br>
+kinect_pj (copyAndPlay)V3 is for recording and playback teleoperation, and kinect_pj(liveSimu)v3 is live teleoperation.
+Please download and rename these files into kinect_pj under the kinect_pj/src folder. Change the permission to executable by use chmod 777 filename<br>
 
 open multiple terminal to run the commands below:<br>
 roscore<br>
