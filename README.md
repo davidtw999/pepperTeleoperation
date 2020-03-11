@@ -71,6 +71,8 @@ source setup.bash <br>
 rosrun kinect_pj kinect_pj<br>
 
 # 2.  Run the teleoperation command
+kinect_pj(simulation)
+kinect_pj(copyand)
 Rename these files into kinect_pj under the kinect_pj/src folder. Change the permission to executable by use chmod 777 filename<br>
 
 open multiple terminal to run the commands below:<br>
